@@ -37,3 +37,16 @@ This is a simple React application for generating passwords with Tailwind CSS.
    ```bash
    git clone https://github.com/Vigneshreddy625/React-PasswordGenerator.git
 
+2. Install dependencies using npm
+   
+    ```bash
+    npm install
+    
+4. Start the development server:
+
+   ```bash
+   npm run dev
+
+# Feel free to customize the README further based on your project's specific details and requirements!
+   
+
